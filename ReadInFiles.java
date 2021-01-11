@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ReadInFiles {
 	public static void main(String[] args) throws FileNotFoundException {
-		// instantiate Scanner object to read in from file
+		// instantiate Scanner object to read in from file 
       Scanner scan = new Scanner(new File("hidden.txt"));
 		
 		// read in rows
